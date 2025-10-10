@@ -16,3 +16,7 @@ img.headshot {
     height: auto;
     border-radius: 5%;
 }
+
+p {
+    text-indent: 2em;
+}
