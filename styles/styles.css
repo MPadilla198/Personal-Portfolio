@@ -17,6 +17,11 @@ img.headshot {
     border-radius: 5%;
 }
 
+img.github-logo {
+    width: 3em;
+    height: 3em;
+}
+
 p {
     text-indent: 2em;
 }
